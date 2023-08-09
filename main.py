@@ -1,1 +1,1 @@
-print("'Hiszpańska Inkwizycja'to najlepszy skecz")
+print("Drugi commit ze zmianami")
