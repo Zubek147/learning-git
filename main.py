@@ -10,3 +10,5 @@ for klucz, wartosc in lista_zakupów.items():
     print(f"Idę do {klucz} i kupuję tam następujące rzeczy: {wartosc}")
 print(f"W sumie kupiłem {len(lista_zakupów['Piekarnia']) + len(lista_zakupów['Warzywniak'])} produktów.")
 print('')
+
+print("'Hiszpańska Inkwizycja'to najlepszy skecz")
